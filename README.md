@@ -51,11 +51,11 @@ Promote your services through Haiya's marketing tools.
 Access valuable insights and analytics to track your performance.
 
 # Technologies and Programming Languages:
-Development Environment: Visual Studio Code (VS Code)
-Database: MySQL
-Frontend Framework: React Native
-Backend Framework: Node.js
-Programming Languages: JavaScript and SQL
+# Development Environment: Visual Studio Code (VS Code)
+# Database: MySQL
+# Frontend Framework: React Native
+# Backend Framework: Node.js
+# Programming Languages: JavaScript and SQL
 
 
 
