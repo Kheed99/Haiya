@@ -59,6 +59,59 @@ Access valuable insights and analytics to track your performance.
 
 
 
+---
+
+# Project Setup and Testing with Expo
+
+This project utilizes Expo for development, simulation, and testing. Expo simplifies the development process for React Native applications by providing an easy-to-use platform for building, debugging, and previewing the app across multiple devices.
+
+# Tools and Environment
+
+Expo CLI: Used to run and manage the project.
+
+Expo Go App: This mobile app allows for real-time testing and live preview of the project on both Android and iOS devices.
+
+
+How to Simulate and Test the App
+
+# 1. Clone the Repository:
+
+# git clone <repository-url>
+cd haiya-frontend
+
+
+# 2. Install Dependencies: Ensure that all dependencies are installed by running:
+
+# npm install
+
+
+# 3. Start the Project with Expo: Use the Expo CLI to start the development server:
+
+# npx expo start
+
+
+# 4. Preview the App on Your Device:
+
+Download the Expo Go app from the Google Play Store or Apple App Store.
+
+Scan the QR code displayed in the terminal or on the Expo DevTools in your browser using the Expo Go app.
+
+Your app will be loaded and run directly on your mobile device, allowing real-time testing and debugging.
+
+
+
+
+# Why Expo?
+
+Expo offers a smooth workflow for testing and debugging React Native apps on physical devices without the need for complex setup like emulators or Xcode/Android Studio configurations. It also enables live reloading, so changes made to the code are reflected instantly on the device.
+
+
+---
+
+
+
+
+
 
 
 
